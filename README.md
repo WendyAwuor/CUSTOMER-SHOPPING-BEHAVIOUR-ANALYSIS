@@ -10,14 +10,23 @@ Project Objectives
 The project aims to:
 
 Explore and understand customer shopping data.
+
 Clean and prepare the dataset for analysis.
+
 Analyze customer purchasing behavior using SQL.
+
 Segment customers based on purchasing value.
+
 Analyze revenue across customer demographics.
+
 Evaluate subscription behavior.
+
 Analyze the impact of discounts and promotions.
+
 Identify high-performing products and categories.
+
 Build an interactive Power BI dashboard.
+
 Translate analytical findings into actionable business recommendations.
 
 
