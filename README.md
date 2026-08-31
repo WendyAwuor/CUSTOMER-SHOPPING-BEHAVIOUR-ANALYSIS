@@ -4,6 +4,8 @@ Retail businesses generate large amounts of customer and transaction data, but t
 This project analyzes customer shopping behavior to identify valuable customer segments, understand purchasing patterns, evaluate subscription and discount behavior, and identify opportunities to improve customer retention and revenue.
 
 The project combines SQL, Python, and Power BI to take the analysis from raw customer data through data preparation and business analysis to an interactive dashboard.
+
+
 Project Objectives
 The project aims to:
 
@@ -17,6 +19,8 @@ Analyze the impact of discounts and promotions.
 Identify high-performing products and categories.
 Build an interactive Power BI dashboard.
 Translate analytical findings into actionable business recommendations.
+
+
 🗂️ Dataset
 The project uses a customer shopping behavior dataset containing approximately 3,900 customer purchase records.
 
@@ -34,6 +38,8 @@ Purchase frequency
 Payment methods
 Shipping information
 Previous purchasing behavior
+
+
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
